@@ -4,13 +4,14 @@
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
+console.log(this);
 
 // Generate a random password based on selected criteria
 function generatePassword() {
   var length = parseInt(prompt("Enter the length of the password (between 8 and 128):"));
 
   // Validate the length input
-  if (isNaN(length) || length < 8 || length > 128) {
+  if (isNaN(length) || length < 8 || length > 128 ) {
     alert("Invalid password length. Please try again.");
     return;
   }
