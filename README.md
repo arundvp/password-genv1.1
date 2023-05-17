@@ -42,7 +42,7 @@ Hosted the index.html in GitHub Pages
 
 ## Links
 
-URL to the GitHub repository: https://arundvp.github.io/password-genv1.1
+URL to the GitHub repository: https://github.com/arundvp/password-genv1.1
 
 URL to my deployed webpage: https://arundvp.github.io/password-genv1.1/
 
